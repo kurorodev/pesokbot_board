@@ -5,6 +5,62 @@
 	(uuid "3b0b46ed-3ce3-4874-97d9-085fc63ec69d")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 102.87 74.93) (xy 144.78 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95b99c42-97a8-4382-b7f8-c00acfe29516")
+	)
+	(sheet
+		(at 137.16 71.12)
+		(size 16.51 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1d58ee27-f85c-42dd-9f47-ef2e9bbc65c7")
+		(property "Sheetname" "02_Servo_Power"
+			(at 137.16 70.4084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Power.kicad_sch"
+			(at 137.16 79.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pesokbot_board"
+				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet
 		(at 87.63 71.12)
 		(size 15.24 7.62)
@@ -41,6 +97,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "VBAT_PROT" input
+			(at 102.87 74.93 0)
+			(uuid "585b4803-d934-4a58-a0bf-32a3a1cf339d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

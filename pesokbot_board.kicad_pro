@@ -660,7 +660,7 @@
         "uuid": "3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
       }
     ],
-    "used_designators": "D1-2,C1-4,#PWR1-2,J1,Q1-2,F1,U1",
+    "used_designators": "D1-2,C1-7,#PWR1-9,J1-8,Q1-2,F1-2,U1",
     "variants": []
   },
   "sheets": [
@@ -671,6 +671,10 @@
     [
       "7fcb5e49-7714-4b8a-89f6-1b4a55628aa2",
       "01_Power_Input"
+    ],
+    [
+      "1d58ee27-f85c-42dd-9f47-ef2e9bbc65c7",
+      "02_Servo_Power"
     ]
   ],
   "text_variables": {},
