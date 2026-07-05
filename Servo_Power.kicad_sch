@@ -832,28 +832,28 @@
 		)
 	)
 	(junction
-		(at 179.07 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "179458b8-0d89-4726-8281-a9d98661da91")
-	)
-	(junction
 		(at 149.86 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c6b789b-cf28-4301-a173-a03f41f83f69")
 	)
 	(junction
+		(at 172.72 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8015102e-921e-4bcd-b074-bf6a3571715c")
+	)
+	(junction
+		(at 172.72 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87f2ea4b-00cc-4ad6-81e1-b47876316623")
+	)
+	(junction
 		(at 127 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4d9533c-975f-4755-9e34-0037081adad9")
-	)
-	(junction
-		(at 179.07 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d03e79fe-8cc3-4eaf-8c53-5c7832087ecb")
 	)
 	(junction
 		(at 149.86 90.17)
@@ -873,6 +873,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 97.79) (xy 185.42 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "036da2fe-4998-436d-9694-14828f8624b2")
+	)
+	(wire
+		(pts
 			(xy 87.63 90.17) (xy 96.52 90.17)
 		)
 		(stroke
@@ -883,16 +893,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 90.17) (xy -30.48 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1247f87a-5c50-4824-8015-9655e90cf294")
-	)
-	(wire
-		(pts
 			(xy 209.55 104.14) (xy 214.63 104.14)
 		)
 		(stroke
@@ -900,16 +900,6 @@
 			(type default)
 		)
 		(uuid "29ffba46-330c-4db8-96a6-8c99ba2bc41b")
-	)
-	(wire
-		(pts
-			(xy 179.07 90.17) (xy 193.04 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ef10c15-28db-43df-9382-3a4013de7dd0")
 	)
 	(wire
 		(pts
@@ -933,16 +923,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 97.79) (xy 193.04 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a311b36-96d9-4369-9435-e6cfc1636720")
-	)
-	(wire
-		(pts
 			(xy 214.63 129.54) (xy 209.55 129.54)
 		)
 		(stroke
@@ -953,7 +933,7 @@
 	)
 	(wire
 		(pts
-			(xy -30.48 0.8096) (xy 0.3048 0.8096)
+			(xy -1.27 90.17) (xy 53.34 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1003,16 +983,6 @@
 	)
 	(wire
 		(pts
-			(xy -30.48 90.17) (xy -30.48 0.8096)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b9b4f25-b516-4920-a189-f01376ccc765")
-	)
-	(wire
-		(pts
 			(xy 133.35 90.17) (xy 149.86 90.17)
 		)
 		(stroke
@@ -1020,6 +990,16 @@
 			(type default)
 		)
 		(uuid "8e02f78d-f415-4ec0-ba9c-237b3de610b1")
+	)
+	(wire
+		(pts
+			(xy 172.72 90.17) (xy 185.42 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3ce1ae-c0b3-444c-ad46-342700f4c7f7")
 	)
 	(wire
 		(pts
@@ -1063,7 +1043,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 90.17) (xy 179.07 90.17)
+			(xy 149.86 90.17) (xy 172.72 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1073,7 +1053,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 97.79) (xy 179.07 97.79)
+			(xy 149.86 97.79) (xy 172.72 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1861,7 +1841,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 179.07 93.98 0)
+		(at 172.72 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1872,7 +1852,7 @@
 		(fields_autoplaced yes)
 		(uuid "8dbf48e6-16da-4925-80dc-85669534f037")
 		(property "Reference" "C6"
-			(at 182.88 92.7099 0)
+			(at 176.53 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1883,7 +1863,7 @@
 			)
 		)
 		(property "Value" "10 µF"
-			(at 182.88 95.2499 0)
+			(at 176.53 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1894,7 +1874,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.0352 97.79 0)
+			(at 173.6852 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1905,7 +1885,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 93.98 0)
+			(at 172.72 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1916,7 +1896,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 179.07 93.98 0)
+			(at 172.72 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2026,7 +2006,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 193.04 93.98 0)
+		(at 185.42 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2037,7 +2017,7 @@
 		(fields_autoplaced yes)
 		(uuid "a45ad353-e1ae-418a-a806-83a082de14b8")
 		(property "Reference" "C7"
-			(at 196.85 92.7099 0)
+			(at 189.23 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2048,7 +2028,7 @@
 			)
 		)
 		(property "Value" "100 nF"
-			(at 196.85 95.2499 0)
+			(at 189.23 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2059,7 +2039,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.0052 97.79 0)
+			(at 186.3852 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2070,7 +2050,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 93.98 0)
+			(at 185.42 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2081,7 +2061,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 193.04 93.98 0)
+			(at 185.42 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
