@@ -673,7 +673,7 @@
         "uuid": "3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
       }
     ],
-    "used_designators": "R8-12,#PWR13-16,#PWR19",
+    "used_designators": "U3",
     "variants": []
   },
   "sheets": [
@@ -692,6 +692,10 @@
     [
       "4e4dbf3c-139f-40b9-aef5-5b4231134cf7",
       "03_IMU_BNO086"
+    ],
+    [
+      "d4987e84-6bd1-43f6-b376-fd16621737cc",
+      "SMT32H7"
     ]
   ],
   "text_variables": {},

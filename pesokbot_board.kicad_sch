@@ -163,6 +163,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 193.04 71.12)
+		(size 15.24 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d4987e84-6bd1-43f6-b376-fd16621737cc")
+		(property "Sheetname" "SMT32H7"
+			(at 193.04 70.4084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_STM32H7.kicad_sch"
+			(at 193.04 79.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pesokbot_board"
+				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
+					(page "5")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
