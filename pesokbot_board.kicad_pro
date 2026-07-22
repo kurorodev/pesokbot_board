@@ -673,7 +673,7 @@
         "uuid": "3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
       }
     ],
-    "used_designators": "#PWR35-40,C20-22,U4",
+    "used_designators": "P1,#PWR41-44,R2,C23",
     "variants": []
   },
   "sheets": [
@@ -696,6 +696,10 @@
     [
       "d4987e84-6bd1-43f6-b376-fd16621737cc",
       "SMT32H7"
+    ],
+    [
+      "610d4f1e-6076-4839-a699-2150771bc539",
+      "USB_CDC"
     ]
   ],
   "text_variables": {},

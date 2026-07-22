@@ -3791,6 +3791,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 113.03) (xy 77.47 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22ebd2d2-49a2-4945-bfe7-714403464b74")
+	)
+	(wire
+		(pts
 			(xy 148.59 80.01) (xy 157.48 80.01)
 		)
 		(stroke
@@ -3868,6 +3878,16 @@
 			(type default)
 		)
 		(uuid "3b8d57dd-98f7-495d-984f-c2347e40f6fc")
+	)
+	(wire
+		(pts
+			(xy 76.2 110.49) (xy 77.47 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "467e2751-72ee-4f6f-8db3-4d406795f79d")
 	)
 	(wire
 		(pts
@@ -4313,6 +4333,30 @@
 			)
 		)
 	)
+	(global_label "DP_USBC"
+		(shape input)
+		(at 76.2 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "409382c8-c52c-42d2-864e-9e4cf448fe92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.6272 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "BNO_NRST"
 		(shape input)
 		(at 148.59 105.41 180)
@@ -4398,6 +4442,30 @@
 		(uuid "d9bd4c53-676c-4dc1-ab61-66bafd9b324c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 128.1272 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DM_USBC"
+		(shape input)
+		(at 76.2 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dcb69810-abb8-4bad-9dd5-7c1644b892cc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.4458 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

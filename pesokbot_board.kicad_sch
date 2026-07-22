@@ -108,6 +108,52 @@
 		)
 	)
 	(sheet
+		(at 113.284 97.536)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "610d4f1e-6076-4839-a699-2150771bc539")
+		(property "Sheetname" "USB_CDC"
+			(at 113.284 96.8244 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_CDC.kicad_sch"
+			(at 113.284 101.9306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pesokbot_board"
+				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 87.63 71.12)
 		(size 15.24 7.62)
 		(exclude_from_sim no)
