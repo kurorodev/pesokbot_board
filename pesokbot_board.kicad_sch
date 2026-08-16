@@ -16,6 +16,52 @@
 		(uuid "95b99c42-97a8-4382-b7f8-c00acfe29516")
 	)
 	(sheet
+		(at 219.71 71.374)
+		(size 16.764 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "03d61898-f6d5-47be-b696-343a686c72c9")
+		(property "Sheetname" "USB_MCU"
+			(at 219.71 70.6624 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_mcu.kicad_sch"
+			(at 219.71 79.5786 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pesokbot_board"
+				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 137.16 71.12)
 		(size 16.51 7.62)
 		(exclude_from_sim no)
