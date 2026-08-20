@@ -9149,6 +9149,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 120.65 46.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e61a1f31-79a4-4714-98d3-4bceb1e56f39")
+		(property "Reference" "R1"
+			(at 116.84 45.466 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 116.84 48.006 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 118.872 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 120.65 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 120.65 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8ada786e-4eaf-4dc7-a6d6-287beb02102d")
+		)
+		(pin "1"
+			(uuid "9105e111-d154-4208-806e-81268da017eb")
+		)
+		(instances
+			(project "pesokbot_board"
+				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d/d4987e84-6bd1-43f6-b376-fd16621737cc"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 35.56 82.55 0)
 		(unit 1)
@@ -9462,87 +9543,6 @@
 			(project "pesokbot_board"
 				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d/d4987e84-6bd1-43f6-b376-fd16621737cc"
 					(reference "C22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 120.65 46.99 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f710a8f3-0bd2-487a-8cb5-6ecc0ab8e82b")
-		(property "Reference" "R1"
-			(at 116.84 45.466 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R"
-			(at 116.84 48.006 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 118.872 46.99 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 120.65 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 120.65 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1f94ed64-b48e-4cc0-9ab5-b772993a22bd")
-		)
-		(pin "2"
-			(uuid "99dba121-bbde-480c-8a51-c7bdf7525ddf")
-		)
-		(instances
-			(project "pesokbot_board"
-				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d/d4987e84-6bd1-43f6-b376-fd16621737cc"
-					(reference "R1")
 					(unit 1)
 				)
 			)
