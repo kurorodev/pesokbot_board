@@ -673,7 +673,7 @@
         "uuid": "3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
       }
     ],
-    "used_designators": "R1,J9",
+    "used_designators": "R1,J9-22,#PWR49-106",
     "variants": []
   },
   "sheets": [
@@ -704,6 +704,10 @@
     [
       "03d61898-f6d5-47be-b696-343a686c72c9",
       "USB_MCU"
+    ],
+    [
+      "39c4c5d8-f7f7-4003-ba23-f19b7cfcd63c",
+      "UPORTS"
     ]
   ],
   "text_variables": {},
