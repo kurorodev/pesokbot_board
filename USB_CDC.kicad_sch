@@ -1158,8 +1158,16 @@
 		(uuid "be690037-cb8c-4082-99e3-ee3b8a085278")
 	)
 	(no_connect
+		(at 143.51 100.33)
+		(uuid "2aae2fe2-8cb7-4293-b4d7-1568dcfd4e4b")
+	)
+	(no_connect
 		(at 143.51 69.85)
 		(uuid "7ffe9efb-40bf-4617-8277-ed03767aea25")
+	)
+	(no_connect
+		(at 143.51 97.79)
+		(uuid "f91f535d-d1b8-42f0-aa61-5821ece13334")
 	)
 	(wire
 		(pts
