@@ -686,7 +686,7 @@
         "uuid": "3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R3-5,J22-23,5.1K3-6,L1,#PWR42,#PWR45-48,#PWR80,#PWR88-90,#PWR105-107,C24-31,U5-6",
     "variants": []
   },
   "sheets": [
@@ -721,6 +721,10 @@
     [
       "39c4c5d8-f7f7-4003-ba23-f19b7cfcd63c",
       "UPORTS"
+    ],
+    [
+      "dc80d557-9fc9-46a2-bc86-6b21adf683f4",
+      "5V_BUCK"
     ]
   ],
   "text_variables": {},

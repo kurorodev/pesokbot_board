@@ -2004,16 +2004,29 @@
 		)
 		(uuid "92dfdad6-265a-4f3a-86c3-16f9a4a2fefc")
 	)
-	(hierarchical_label "VBAT_PROT"
+	(global_label "VBAT_PROT"
 		(shape input)
 		(at 139.7 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "53ab8311-ae50-456f-b96d-fd1d383a34e8")
+		(uuid "05810e65-9e4c-42e2-ac4e-57f74941b2d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 152.9057 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
