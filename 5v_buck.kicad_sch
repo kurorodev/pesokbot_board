@@ -1371,7 +1371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1206C105K5RACAUTO:CAPC3216X178N"
 			(at 204.1652 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1441,7 +1441,7 @@
 				)
 			)
 		)
-		(property "Value" "LMR51430"
+		(property "Value" "LMR51430_5v"
 			(at 135.89 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1547,7 +1547,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1206C105K5RACAUTO:CAPC3216X178N"
 			(at 192.7352 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1707,7 +1707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1206C105K5RACAUTO:CAPC3216X178N"
 			(at 113.9952 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2021,7 +2021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_XAL6060-XXX"
 			(at 172.72 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2103,7 +2103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C3216X7R1H475M160AC:CAPC3216X180N"
 			(at 88.5952 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2185,7 +2185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 158.4452 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2266,7 +2266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 178.562 102.87 90)
 			(hide yes)
 			(show_name no)
@@ -2347,7 +2347,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 178.562 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -2429,7 +2429,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C3216X7R1H475M160AC:CAPC3216X180N"
 			(at 101.2952 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -2511,7 +2511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 74.6252 99.06 0)
 			(hide yes)
 			(show_name no)

@@ -7018,7 +7018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 163.5252 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -7260,7 +7260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 145.7452 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8620,7 +8620,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 125.4252 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -10242,7 +10242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 134.62 68.8848 0)
 			(hide yes)
 			(show_name no)
@@ -11848,7 +11848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 51.1048 45.72 0)
 			(hide yes)
 			(show_name no)

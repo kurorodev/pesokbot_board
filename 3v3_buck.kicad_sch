@@ -1252,7 +1252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 158.242 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -1333,7 +1333,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 144.4752 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -1414,7 +1414,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1608X7R1H474K080AC:CAPC1608X90N"
 			(at 97.4852 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1495,7 +1495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1206C105K5RACAUTO:CAPC3216X178N"
 			(at 182.5752 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1654,7 +1654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C3216X7R1H475M160AC:CAPC3216X180N"
 			(at 73.3552 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1736,7 +1736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 158.242 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -1815,7 +1815,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_XAL6060-XXX"
 			(at 152.4 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2208,7 +2208,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C3216X7R1H475M160AC:CAPC3216X180N"
 			(at 84.7852 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2278,7 +2278,7 @@
 				)
 			)
 		)
-		(property "Value" "LMR51430"
+		(property "Value" "LMR51430_3v3"
 			(at 123.19 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2383,7 +2383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C1206C105K5RACAUTO:CAPC3216X178N"
 			(at 173.6852 97.79 0)
 			(hide yes)
 			(show_name no)
