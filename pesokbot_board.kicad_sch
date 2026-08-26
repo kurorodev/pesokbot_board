@@ -52,6 +52,52 @@
 		)
 	)
 	(sheet
+		(at 180.34 96.52)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0590beb7-27f6-4349-8d51-cc209545ee74")
+		(property "Sheetname" "3V3_BUCK"
+			(at 180.34 95.8084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3v3_buck.kicad_sch"
+			(at 180.34 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pesokbot_board"
+				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 137.16 71.12)
 		(size 16.51 7.62)
 		(exclude_from_sim no)

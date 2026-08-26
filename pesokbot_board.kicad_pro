@@ -686,7 +686,7 @@
         "uuid": "3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C32-37,L2,#PWR107-112,U6,R3,R5,R13-15",
     "variants": []
   },
   "sheets": [
@@ -725,6 +725,10 @@
     [
       "dc80d557-9fc9-46a2-bc86-6b21adf683f4",
       "5V_BUCK"
+    ],
+    [
+      "0590beb7-27f6-4349-8d51-cc209545ee74",
+      "3V3_BUCK"
     ]
   ],
   "text_variables": {},
