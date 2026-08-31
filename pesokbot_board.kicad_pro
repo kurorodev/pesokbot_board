@@ -729,6 +729,10 @@
     [
       "0590beb7-27f6-4349-8d51-cc209545ee74",
       "3V3_BUCK"
+    ],
+    [
+      "4a103af4-097d-4a7c-ab42-ed5a9dde9409",
+      "TPS2121RUXR_pwrmux"
     ]
   ],
   "text_variables": {},

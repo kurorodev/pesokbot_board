@@ -190,6 +190,52 @@
 		)
 	)
 	(sheet
+		(at 202.565 96.52)
+		(size 12.7 6.35)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4a103af4-097d-4a7c-ab42-ed5a9dde9409")
+		(property "Sheetname" "TPS2121RUXR_pwrmux"
+			(at 202.565 95.8084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TPS2121RUXR_pwrmux.kicad_sch"
+			(at 202.565 103.4546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pesokbot_board"
+				(path "/3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 168.91 71.12)
 		(size 15.24 7.62)
 		(exclude_from_sim no)

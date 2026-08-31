@@ -1148,10 +1148,6 @@
 		(uuid "426e8bb8-b034-40c5-a37b-38e1178eaa43")
 	)
 	(no_connect
-		(at 154.94 72.39)
-		(uuid "694d2f4c-3657-48ca-b14e-6c5491775119")
-	)
-	(no_connect
 		(at 154.94 102.87)
 		(uuid "95943c91-be36-48c2-9db8-bd16af62551c")
 	)
@@ -1168,6 +1164,16 @@
 			(type default)
 		)
 		(uuid "2db9633e-5e07-4d77-96a6-c375f8a087b8")
+	)
+	(wire
+		(pts
+			(xy 154.94 67.31) (xy 154.94 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50043599-eca8-4a40-ae49-922ac011ce56")
 	)
 	(wire
 		(pts
@@ -1306,6 +1312,30 @@
 		(uuid "1d1b3f13-efa3-4d4f-ba4a-6a67a2e28f0e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 171.5323 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "USB_MCU_VBUS"
+		(shape input)
+		(at 154.94 67.31 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4f8346a-964a-4920-8e06-c35e7bbccac7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.94 49.6291 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
