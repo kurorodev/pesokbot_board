@@ -205,7 +205,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "4a103af4-097d-4a7c-ab42-ed5a9dde9409")
-		(property "Sheetname" "TPS2121RUXR_pwrmux"
+		(property "Sheetname" "LTC4412_pwrpath"
 			(at 202.565 95.8084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -216,7 +216,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "TPS2121RUXR_pwrmux.kicad_sch"
+		(property "Sheetfile" "LTC4412_pwrpath.kicad_sch"
 			(at 202.565 103.4546 0)
 			(show_name no)
 			(do_not_autoplace no)

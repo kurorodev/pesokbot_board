@@ -1,6 +1,0 @@
-(version 1)
-(rule "JST PHD UPORT to board edge"
-    (layer "F.Courtyard")
-    (constraint physical_clearance (min 2.5mm))
-    (condition "A.memberOfFootprint('Connector_JST:JST_PHD_B12B-PHDSS_2x06_P2.00mm_Vertical') && B.Layer == 'Edge.Cuts'")
-)
