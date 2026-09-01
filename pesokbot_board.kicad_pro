@@ -686,7 +686,7 @@
         "uuid": "3b0b46ed-3ce3-4874-97d9-085fc63ec69d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR114-117,C38-39,Q3-4,R13,U9",
     "variants": []
   },
   "sheets": [
@@ -732,7 +732,7 @@
     ],
     [
       "4a103af4-097d-4a7c-ab42-ed5a9dde9409",
-      "TPS2121RUXR_pwrmux"
+      "LTC4412_pwrpath"
     ]
   ],
   "text_variables": {},
